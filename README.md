@@ -3,6 +3,8 @@ Die Vorrennung dient zur Beschleunigung von Videos mit Sprache. Sprechpausen wer
 dabei wesentlich schneller beschleunigt, was dazu führt, dass die Sprache flüssiger klingt
 und die beschleunigte Datei kürzer wird, als würde man sie nur mit einem konstanten Faktor beschleunigen.
 
+## Download
+https://github.com/Neute/Vorrennung/releases
 
 ## Vorbereitung:
 Die Vorrennung benötigt FFMPEG.
