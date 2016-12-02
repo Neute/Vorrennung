@@ -6,10 +6,17 @@ und die beschleunigte Datei kürzer wird, als würde man sie nur mit einem konst
 ## Download
 https://github.com/Neute/Vorrennung/releases
 
+## Zur Verwendung unter Linux
+Dieses Programm ist auch unter Linux lauffähig, wurde jedoch kaum unter Linux getestet.
+Um das Programm unter Linux auszuführen benötigt man eine funktionierende Installation von Mono und das Package
+"libmono-system-windows-forms4.0-cil". Die Vorrennung kann dann mittels "mono Vorrennung.exe" gestartet werden.
+
+
 ## Vorbereitung:
 Die Vorrennung benötigt FFMPEG.
 Beim ersten Start muss man den bin-Ordner der FFMPEG-Installation in das Programm draggen,
 damit die Pfade entsprechend gesetzt werden können. (Alternativ kann man auch ffmpeg.exe und ffprobe.exe reindraggen).
+
 
 ## Verwendung(Simpler modus):
 Man öffnet eine Datei indem man sie in das Programm draggt oder auf "Datei Öffnen" klickt.
